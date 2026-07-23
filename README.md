@@ -1,2 +1,1 @@
-# Manojkumar
-Hi 👋, I'm Manojkumar
+# Hi 👋, I'm Manojkumar
