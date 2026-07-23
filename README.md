@@ -3,7 +3,11 @@
 🎓 I'm currently a 4th-year Electronics and Communication student at Jawaharlal Nehru New College of Engineering.| Passionate about Data-Driven Insights, Visualization, and Problem Solving | 📚 Skilled in C, Python, Pandas, and Power BI | 🔍 Exploring the intersection of data, business, and technology through real-world projects. | 💡 Always eager to analyze, learn, and build — turning raw data into actionable insights.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manojkumar-nk-0378b132a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manojkumar-nk-0378b132a" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/manojkumar-nk-0378b132a/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 <a href="https://instagram.com/n_manu_kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n_manu_kp" height="30" width="40" /></a>
 </p>
 
