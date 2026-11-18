@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Manojkumar 👋</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Aspiring Data Analyst</h3>
+<h3 align="center">Electronics & Communication Engineering Student | Embedded Engineer</h3>
 
 <p align="center">
   📍 Final Year (4th Year) — Jawaharlal Nehru New College of Engineering
@@ -23,7 +23,7 @@
 - 📈 Enjoy transforming raw data into meaningful, actionable insights
 - 🚀 Currently building real-world data analytics and dashboard projects
 - 🌱 Continuously learning new tools and sharpening my problem-solving skills
-- 🎯 Aspiring Data Analyst focused on driving data-driven decisions
+- 🎯 Aspiring Embedded engineer with good decisions
 
 ---
 
